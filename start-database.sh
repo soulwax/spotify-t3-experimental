@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# File: start-database.sh
 # Use this script to start a docker container for a local development database
 
 # TO RUN ON WINDOWS:
